@@ -2,13 +2,15 @@
 
 A curated collection of skills for AI coding agents. Zero manual steps — the Agent downloads and installs everything automatically.
 
+[中文](README.md)
+
 ---
 
 ## Skills
 
 ### vision-helper — Image Content Analysis
 
-Enables language models without visual capabilities to "see" images by calling external vision APIs and converting image content into text descriptions.
+Calls vision-capable models (Gemini, GPT-4o, etc.) through any OpenAI-compatible API endpoint, enabling language models without built-in vision to "see" images — converting image content into text descriptions for the agent to understand and use.
 
 ```
 Agent Install Directive:
