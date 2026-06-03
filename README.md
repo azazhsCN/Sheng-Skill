@@ -30,6 +30,12 @@ Agent 安装指令：
 
 - **仓库：** [github.com/azazhsCN/xuanpin](https://github.com/azazhsCN/xuanpin)
 
+### 小说写作智能体工作台
+
+专为长篇小说写作设计的 AI 工作台。深度适配 DeepSeek V4 Flash，充分利用 100 万 token 超长上下文，让 AI 一次性"读完"你的整本书，告别上下文碎片化。
+
+- **仓库：** [github.com/azazhsCN/Novel_Studio2](https://github.com/azazhsCN/Novel_Studio2)
+
 ---
 
 ## License
